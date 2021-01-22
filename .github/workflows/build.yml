@@ -1,7 +1,7 @@
 name: GitHub CI
 on:
   push:
-    branches: # aasdjas9dasjiodasjiodasiodas
+    branches: # aasdjas9s
       - master
   pull_request:
     branches:
